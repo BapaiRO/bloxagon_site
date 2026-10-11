@@ -13,7 +13,7 @@
 
 const SITE = {
   // Browser tab title
-  title: "Team Fortress 2 on Roblox",
+  title: "Bloxagon Fortress: Source",
 
   // Top bar
   siteName: "bloxagonfortress.com",
