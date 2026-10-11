@@ -10,7 +10,7 @@ a:focus-visible,button:focus-visible{outline:2px solid #E08A1E;outline-offset:2p
 .hero{position:relative;z-index:2;max-width:1100px;margin:0 auto;padding:36px 24px 0}
 .slot{height:330px;border:2px dashed #CFC9BF;display:flex;justify-content:center;padding-top:70px;color:#CFC9BF;font:20px var(--sc);letter-spacing:.14em}
 .sprites{display:flex;align-items:flex-end;justify-content:center;min-height:330px}
-.sprites img{flex:0 1 auto;min-width:0;max-width:100%;height:auto;max-height:440px;object-fit:contain}
+.sprites img{flex:none;width:120%;max-width:none;height:auto;margin:0 -10%}
 .bwrap{position:relative;z-index:3;max-width:1100px;margin:-46px auto -34px;padding:0 24px}
 .banner{width:min(760px,100%);padding:26px 44px 52px;background:linear-gradient(#C25A16,#A24510);clip-path:polygon(0 8%,100% 0,100% 82%,3% 100%)}
 .b1{color:#fff;font:700 40px var(--sc);letter-spacing:.02em;text-shadow:0 2px 0 rgba(0,0,0,.4)}
@@ -40,3 +40,4 @@ a:focus-visible,button:focus-visible{outline:2px solid #E08A1E;outline-offset:2p
 .t2{background:linear-gradient(#5C8A41,#436D2D);color:#fff}
 .t3{background:linear-gradient(#52627A,#3B4A5F);color:#fff}
 .foot{max-width:900px;margin:0 auto;padding:20px 12px calc(28px + env(safe-area-inset-bottom,0px));display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;color:#D6D0C6;font:13px/1.6 var(--ar)}
+body{overflow-x:hidden}
