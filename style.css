@@ -40,3 +40,4 @@ a:focus-visible,button:focus-visible{outline:2px solid #E08A1E;outline-offset:2p
 .t2{background:linear-gradient(#5C8A41,#436D2D);color:#fff}
 .t3{background:linear-gradient(#52627A,#3B4A5F);color:#fff}
 .foot{max-width:900px;margin:0 auto;padding:20px 12px calc(28px + env(safe-area-inset-bottom,0px));display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;color:#D6D0C6;font:13px/1.6 var(--ar)}
+.sprites img{position:relative;top:30px}
