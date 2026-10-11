@@ -42,7 +42,7 @@ const SITE = {
   // Menu row above the posts
   nav: [
     { label: "HOME",    url: "#" },
-    { label: "VIDEOS",  url: "#" },
+    { label: "VIDEOS",  url: "https://www.youtube.com/@TheBappeningOfBap" },
     { label: "COMICS",  url: "#" },
     { label: "HISTORY", url: "#" },
     { label: "ARTWORK", url: "#" },
