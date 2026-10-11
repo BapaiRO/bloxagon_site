@@ -16,7 +16,7 @@ const SITE = {
   title: "Team Fortress 2 on Roblox",
 
   // Top bar
-  siteName: "[YOURSITE].com",
+  siteName: "bloxagonfortress.com",
   topLinks: [
     { label: "Roblox",    url: "#" },
     { label: "Wiki",      url: "#" },
@@ -33,10 +33,10 @@ const SITE = {
 
   // Orange banner
   banner: {
-    brand: "TEAM FORTRESS 2",
+    brand: "BLOXAGON FORTRESS: SOURCE",
     headline: "PLAY NOW!",
-    buttonLabel: "GET IT NOW ON ROBLOX",
-    buttonUrl: "#",   // <- paste your Roblox game link here
+    buttonLabel: "PLAY IT NOW ON ROBLOX!",
+    buttonUrl: "https://www.roblox.com/games/5937249539/Blox-Fortress-2",   // <- paste your Roblox game link here
   },
 
   // Menu row above the posts
@@ -59,32 +59,26 @@ const SITE = {
   // paste it at the top of the right list.
   posts: {
     blog: [
-      { title: "[BLOG POST TITLE]", date: "[DATE] - [STUDIO] Team", text: "[Post text goes here.]" },
-      { title: "[BLOG POST TITLE]", date: "[DATE] - [STUDIO] Team", text: "[Post text goes here.]" },
-      { title: "[BLOG POST TITLE]", date: "[DATE] - [STUDIO] Team", text: "[Post text goes here.]" },
+      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" }
     ],
     news: [
-      { title: "[NEWS HEADLINE]", date: "[DATE] - [STUDIO] Team", text: "[News text goes here.]" },
-      { title: "[NEWS HEADLINE]", date: "[DATE] - [STUDIO] Team", text: "[News text goes here.]" },
-      { title: "[NEWS HEADLINE]", date: "[DATE] - [STUDIO] Team", text: "[News text goes here.]" },
+      {title: "SITE HAS BEEN RELEASED!", date: "10/11/2026 - BF:S Team", text: "We are happy to announce that the game has a site now." }
     ],
     updates: [
-      { title: "[UPDATE NAME] - [VERSION]", date: "[DATE] - Patch notes", text: "[Patch notes go here.]\n[Second line.]" },
-      { title: "[UPDATE NAME] - [VERSION]", date: "[DATE] - Patch notes", text: "[Patch notes go here.]" },
-      { title: "[UPDATE NAME] - [VERSION]", date: "[DATE] - Patch notes", text: "[Patch notes go here.]" },
+      // { title: "[UPDATE NAME] - [VERSION]", date: "[DATE] - Patch notes", text: "[Patch notes go here.]\n[Second line.]" },
     ],
   },
 
   // Right-hand column
-  promo: { label: "[PROMO TITLE]", url: "#" },
+  promo: { label: "WORKSHOP!", url: "#" },
   tiles: [
     { label: "Official Wiki",     url: "#" },
     { label: "Item Shop",         url: "#" },
-    { label: "Community Discord", url: "#" },
+    { label: "Community Discord", url: "https://discord.gg/pRbb8pPYbf" },
     { label: "Game Hub",          url: "#" },
   ],
 
   // Footer
   footerLeft: "Made by SKARR Studio",
-  footerRight: "[VALVE LICENSE NOTICE]",
+  footerRight: "This is not Valve's Team Fortress 2, neither we are trying to replace it, it's just a fan project!",
 };
