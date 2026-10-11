@@ -51,8 +51,8 @@ const SITE = {
   // Tabs. Set isNew to false (or delete it) to remove the orange NEW badge.
   tabs: [
     { id: "blog",    label: "Blog" },
-    { id: "news",    label: "News",    isNew: true },
-    { id: "updates", label: "Updates", isNew: true },
+    { id: "news",    label: "News",    isNew: false },
+    { id: "updates", label: "Updates", isNew: false },
   ],
 
   // POSTS. Newest first. To add a post, copy one whole { ... }, line and
