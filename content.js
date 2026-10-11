@@ -18,9 +18,9 @@ const SITE = {
   // Top bar
   siteName: "bloxagonfortress.com",
   topLinks: [
-    { label: "Roblox",    url: "#" },
-    { label: "Wiki",      url: "#" },
-    { label: "Community", url: "#" },
+    { label: "Roblox",    url: "https://www.roblox.com/games/5937249539/Blox-Fortress-2" },
+    { label: "Wiki",      url: "https://wiki.teamfortress.com/wiki/Main_Page" },
+    { label: "Community", url: "https://discord.gg/pRbb8pPYbf" },
   ],
 
   // Hero: put your character image files in the "images" folder, then list
@@ -72,8 +72,8 @@ const SITE = {
   // Right-hand column
   promo: { label: "WORKSHOP!", url: "#" },
   tiles: [
-    { label: "Official Wiki",     url: "#" },
-    { label: "Item Shop",         url: "#" },
+    { label: "Official Wiki",     url: "https://wiki.teamfortress.com/wiki/Main_Page" },
+    { label: "Item Shop",         url: "https://backpack.tf/" },
     { label: "Community Discord", url: "https://discord.gg/pRbb8pPYbf" },
     { label: "Game Hub",          url: "#" },
   ],
