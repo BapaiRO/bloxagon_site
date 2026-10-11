@@ -12,7 +12,7 @@ a:focus-visible,button:focus-visible{outline:2px solid #E08A1E;outline-offset:2p
 .sprites{display:flex;align-items:flex-end;justify-content:center;min-height:330px}
 .sprites img{flex:0 1 auto;min-width:0;width:100%;height:auto;object-fit:contain}
 .bwrap{position:relative;z-index:3;max-width:1100px;margin:-46px auto -34px;padding:0 24px}
-.banner{width:min(760px,100%);padding:26px 44px 52px;background:linear-gradient(#C25A16,#A24510);clip-path:polygon(0 8%,100% 0,100% 82%,3% 100%)}
+.banner{width:100%;padding:26px 44px 52px;background:linear-gradient(#C25A16,#A24510);clip-path:polygon(0 8%,100% 0,100% 82%,3% 100%)}
 .b1{color:#fff;font:700 40px var(--sc);letter-spacing:.02em;text-shadow:0 2px 0 rgba(0,0,0,.4)}
 .b2{color:#E9E3D3;font:clamp(40px,7vw,76px)/1.05 'Alfa Slab One',Georgia,serif;text-shadow:0 3px 0 #5A2A0A}
 .cta{display:inline-flex;align-items:center;min-height:44px;margin-top:14px;padding:0 34px;background:linear-gradient(#E4DCC6,#C9C0A6);color:#3A342C;border-radius:6px;font:700 18px var(--sc);letter-spacing:.1em;box-shadow:0 2px 0 rgba(0,0,0,.4),inset 0 1px 0 rgba(255,255,255,.6)}
