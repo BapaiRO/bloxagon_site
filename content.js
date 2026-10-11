@@ -27,7 +27,7 @@ const SITE = {
   // them here left to right, e.g.  "images/sniper.png", "images/pyro.png"
   // While this list is empty, the dashed placeholder text shows instead.
   sprites: [
-    // "images/sniper.png",
+    "images/mercs.png",
   ],
   heroPlaceholder: "[CHARACTER LINE-UP ART]",
 
