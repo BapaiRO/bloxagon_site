@@ -59,17 +59,7 @@ const SITE = {
   // paste it at the top of the right list.
   posts: {
     blog: [
-      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
-      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
-      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
-      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
-      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
-      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
-      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
-      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
-      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
-      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
-      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
+      {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" }
     ],
     news: [
       {title: "SITE HAS BEEN RELEASED!", date: "10/11/2026 - BF:S Team", text: "We are happy to announce that the game has a site now." }
