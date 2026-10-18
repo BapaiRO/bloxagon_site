@@ -16,7 +16,7 @@ const SITE = {
   title: "Bloxagon Fortress: Source",
 
   // Top bar
-  siteName: "bloxagonfortress.com",
+  siteName: "bloxagonfortress.jo3.org",
   topLinks: [
     { label: "Roblox",    url: "https://www.roblox.com/games/5937249539/Blox-Fortress-2" },
     { label: "Wiki",      url: "https://wiki.teamfortress.com/wiki/Main_Page" },
