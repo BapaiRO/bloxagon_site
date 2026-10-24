@@ -60,7 +60,7 @@ const SITE = {
   posts: {
     blog: [
       {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" },
-      {title: "Update on the game's situationship", date: "10/24/2026 - BF:S Team", text: "The game is not dead yet, but we are busy with plans. The game will begin posting new sneak peeks soon!" }
+      {title: "UPDATE ON THE GAME'S SITUATION", date: "10/24/2026 - BF:S Team", text: "The game is not dead yet, but we are busy with plans. The game will begin posting new sneak peeks soon!" }
     ],
     news: [
       {title: "SITE HAS BEEN RELEASED!", date: "10/11/2026 - BF:S Team", text: "We are happy to announce that the game has a site now." }
