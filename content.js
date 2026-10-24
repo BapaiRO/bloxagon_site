@@ -50,7 +50,7 @@ const SITE = {
 
   // Tabs. Set isNew to false (or delete it) to remove the orange NEW badge.
   tabs: [
-    { id: "blog",    label: "Blog",    isNew: false },
+    { id: "blog",    label: "Blog",    isNew: true },
     { id: "news",    label: "News",    isNew: false },
     { id: "updates", label: "Updates", isNew: false },
   ],
