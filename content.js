@@ -59,7 +59,8 @@ const SITE = {
   // paste it at the top of the right list.
   posts: {
     blog: [
-            {title: "UPDATE ON THE GAME'S SITUATION", date: "10/24/2026 - BF:S Team", text: "The game is not dead yet, but we are busy with plans. The game will begin posting new sneak peeks soon!" },
+       {title: "UPDATE ON THE UPDATE ON THE GAME'S SITUATION", date: "11/22/2026 - BF:S Team", text: "Starting next week, we'll start posting new sneak peeks every 2 days. We were busy enough to the point where we couldn't work on the game, we are sorry and for this we will host a giveaway!." },
+      {title: "UPDATE ON THE GAME'S SITUATION", date: "10/24/2026 - BF:S Team", text: "The game is not dead yet, but we are busy with plans. The game will begin posting new sneak peeks soon!" },
       {title: "THE SITE'S RELEASE!", date: "10/11/2026 - BF:S Team", text: "We have officially released the site!" }
     ],
     news: [
